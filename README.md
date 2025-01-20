@@ -11,3 +11,9 @@ Requirements for a finished project
 6. There should be power ups. Such as multi ball, explosions, and extra lives.
 7. There should a score.
 8. Levels should be auto generated if possible, so that the player can play forever.
+
+## ChatGPT Conversation
+https://chatgpt.com/share/678ec724-42a8-800a-b560-7e5f2ca6eda9
+
+## Youtube
+https://youtu.be/KgwRjbPA1WE
